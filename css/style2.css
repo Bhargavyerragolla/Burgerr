@@ -1,0 +1,34 @@
+body{
+    background-color: cornsilk;
+}
+h1{
+    color: #454545;
+    font-size: 40px;
+    
+}
+h2{
+    color: #539165;
+}
+
+.center {
+    margin: auto;
+    width: 20%;
+   
+  }
+img{
+    float: left;
+}
+.in{
+    color: #539165;
+}
+.out{
+    color: red;
+}
+hr{
+    border-style: dotted none none;
+    background-color: white;
+    width: 5%;
+    border-width: 3px;
+    border-color: gray;
+
+}

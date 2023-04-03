@@ -1,0 +1,16 @@
+body{
+    background-color: cornsilk;
+}
+h1{
+    color: #454545;
+    font-size: 50px;
+    
+}
+p{
+    font-size: 15px;
+}
+.center {
+    margin: auto;
+    width: 20%;
+   
+  }
